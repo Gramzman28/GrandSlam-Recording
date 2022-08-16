@@ -1,5 +1,5 @@
 # GrandSlam4k
-"GrandSlam Recording Studio (GrandSlam4k) - ReLEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
+"GrandSlam Recording Studio - ReLEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
 
 LeeGramz https://www.facebook.com/LeeGramz1989
 
