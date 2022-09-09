@@ -1,5 +1,5 @@
-# GrandSlam4k
-"GrandSlam Recording Studio (GrandSlam4k) - ReLEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
+
+"GrandSlam Recording Studio - ReLEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
 
 LeeGramz https://www.facebook.com/LeeGramz1989
 
@@ -11,9 +11,9 @@ https://www.google.com/search?q=grandslam+recording+studio&newwindow=1&sxsrf=AOa
 
 Google Businesshttps://grandslamrecordingstudio.business.site/posts/8137266116070737313
 
-GitHub https://github.com/GrandSlam4k https://giters.com/GrandSlam4k?amp=1
+GitHub https://github.com/Gramzman28 
 
-@grandslam4k @gramzman28 https://twitter.com/gramzman28?lang=enhttps://twitter.com/grandslam4k
+ @gramzman28 https://twitter.com/gramzman28?lang=enhttps://twitter.com/grandslam4k
 
 38MG+33 Youngstown, Ohio
 
@@ -25,7 +25,7 @@ GramzmanTv Youtubehttps://www.youtube.com/channel/UCnsyt1x9MxqYHmSJBDqpOEA
 
 @grandslam4k https://www.instagram.com/grandslam4k/
 
-GrandSlam Recording Studio(GrandSlam4k)
+GrandSlam Recording Studio
 
 GrandSlam Recording Studio﻿ Music Production Studio GrandSlam Recording StudioLLC Is a specialized facility for sounds recording audio productions of vocal musical performance & Other Sounds recording promotion, filming production & music distribution
 
@@ -40,6 +40,6 @@ Gramzman28
 
 https://www.google.com/search?q=Gramzman28&newwindow=1&sxsrf=AOaemvJZRE0GCS3VFcUyB5frLVvZnwmdYA%3A1635680629991&ei=dYF-YcnqO9PstQbLj4OgDA&oq=Gramzman28&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6CwgAELADEAcQChAeOgkIABCwAxAIEB46BAgjECc6CgguEIAEEIcCEBQ6BQgAEIAEOgcILhCxAxAKOgoIABCABBCHAhAUOgUIABCRAjoICC4QgAQQsQM6BQguEIAEOg0ILhCABBCHAhCxAxAUOgcILhCxAxBDOgQIABBDOgsILhCABBDHARCvAToECC4QQzoFCC4QkQI6DgguEIAEELEDEMcBEKMCOhAILhDHARCvARDqAhAnEJMCOgcIIxDqAhAnOg0ILhDHARDRAxDqAhAnOg0ILhDHARCvARAnEJMCOgoILhDHARCvARBDOgsILhDHARCvARCRAjoICAAQgAQQsQM6DgguEIAEELEDEMcBENEDOg0ILhDHARCvARBDEJMCOgcIABCxAxBDOgcIABCxAxAKSgQIQRgBUJC9BFia_QRg5YIFaAJwAHgAgAGEAYgBgw-SAQQ2LjEymAEAoAEBsAEKyAEGwAEB&sclient=gws-wiz&ved=0ahUKEwiJ-amXyfTzAhVTds0KHcvHAMQQ4dUDCA0&uact=5cording Studio" https://grandslamrecordingstudio.com GrandSlam4k 38MG+33 Youngstown, OH, USA
 
-GrandSlam Recording Studio (GrandSlam4k) @gramzman28 @GGrandslam4k
+GrandSlam Recording Studio @gramzman28 
 https://github.com/GrandSlam4k/gramzman28
-@GramzLee @grandslam4k
+
