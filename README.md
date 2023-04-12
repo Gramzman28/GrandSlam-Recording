@@ -1,4 +1,4 @@
-# GrandSlam4k
+
 "GrandSlam Recording Studio - ReLEE GRAMZ https://open.spotify.com/artist/6lGGPiMMFVXyEYg9H26V2s
 
 LeeGramz https://www.facebook.com/LeeGramz1989
@@ -25,7 +25,7 @@ GramzmanTv Youtubehttps://www.youtube.com/channel/UCnsyt1x9MxqYHmSJBDqpOEA
 
 @grandslam4k https://www.instagram.com/grandslam4k/
 
-GrandSlam Recording Studio(GrandSlam4k)
+GrandSlam Recording Studio
 
 GrandSlam Recording Studio﻿ Music Production Studio GrandSlam Recording StudioLLC Is a specialized facility for sounds recording audio productions of vocal musical performance & Other Sounds recording promotion, filming production & music distribution
 
