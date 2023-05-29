@@ -41,5 +41,54 @@ Gramzman28
 https://www.google.com/search?q=Gramzman28&newwindow=1&sxsrf=AOaemvJZRE0GCS3VFcUyB5frLVvZnwmdYA%3A1635680629991&ei=dYF-YcnqO9PstQbLj4OgDA&oq=Gramzman28&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6CwgAELADEAcQChAeOgkIABCwAxAIEB46BAgjECc6CgguEIAEEIcCEBQ6BQgAEIAEOgcILhCxAxAKOgoIABCABBCHAhAUOgUIABCRAjoICC4QgAQQsQM6BQguEIAEOg0ILhCABBCHAhCxAxAUOgcILhCxAxBDOgQIABBDOgsILhCABBDHARCvAToECC4QQzoFCC4QkQI6DgguEIAEELEDEMcBEKMCOhAILhDHARCvARDqAhAnEJMCOgcIIxDqAhAnOg0ILhDHARDRAxDqAhAnOg0ILhDHARCvARAnEJMCOgoILhDHARCvARBDOgsILhDHARCvARCRAjoICAAQgAQQsQM6DgguEIAEELEDEMcBENEDOg0ILhDHARCvARBDEJMCOgcIABCxAxBDOgcIABCxAxAKSgQIQRgBUJC9BFia_QRg5YIFaAJwAHgAgAGEAYgBgw-SAQQ2LjEymAEAoAEBsAEKyAEGwAEB&sclient=gws-wiz&ved=0ahUKEwiJ-amXyfTzAhVTds0KHcvHAMQQ4dUDCA0&uact=5cording Studio" https://grandslamrecordingstudio.com GrandSlam4k 38MG+33 Youngstown, OH, USA
 
 GrandSlam Recording Studio @gramzman28 
-https://github.com/GrandSlam4k/gramzman28
+https://github.com/Gramzman28/GrandSlam-Recording
+https://github.com/Gramzman28
+https://www.bing.com/search?q=grandslam+recording+studio+&qs=HS&sk=PRES1&sc=8-0&cvid=07E6FB33FE7A4B41933FAFB2FB6ABCF1&FORM=QBLH&sp=1
 
+- name: https://github.com/Gramzman28/GrandSlam-Recording
+https://github.com/Gramzman28
+https://github.com/GrandSlam-Recording-Studio
+
+  # You may pin to the exact commit or the version.
+
+  # uses: bridgecrewio/yor-action@04bf3da0c4e8619a307c023ce8f0d196a2d8a4ee
+
+  uses: bridgecrewio/yor-action@0.3.0
+
+  with:
+
+    # directory with infrastructure code to scan
+
+    directory: # optional, default is .
+
+    # Run scan on all checks but a specific check identifier (comma separated)
+
+    tag_groups: # optional
+
+    # comma delimited list of yor tags to apply
+
+    tag: # optional
+
+    # comma delimited list of yor tags to not apply
+
+    skip_tags: # optional
+
+    # comma delimited list of paths for yor to skip tagging of
+
+    skip_dirs: # optional
+
+    # comma delimited list of paths to external (custom) tags & tag groups plugins
+
+    custom_tags: # optional
+
+    # The format of the output. cli, json
+
+    output_format: # optional
+
+    # log level
+
+    log_level: # optional
+
+    # Choose whether the action will commit changes. Changes will be commited if this is exactly "YES"
+
+    commit_changes: # optional, default is true
